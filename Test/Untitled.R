@@ -1,2 +1,0 @@
-sumarry(x)
-sumarry(y)
